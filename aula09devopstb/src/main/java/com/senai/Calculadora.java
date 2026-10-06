@@ -6,6 +6,7 @@ public class Calculadora {
     }
 
     public int multiplicacao(int num1, int num2){
+        System.out.println("Teste");
         return num1+num2;
     }
     
